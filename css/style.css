@@ -1,0 +1,150 @@
+/*Start Rulez*/
+body
+{
+    background-color: #F3F3F3;
+font-family: 'Comfortaa', cursive;
+
+}
+
+/* End Rulez*/
+
+/*Start Header*/
+.header
+{
+    overflow: hidden;
+    background-color:#0062AD;
+    height: 150px;
+    border-bottom: 15px solid #F06622;
+    text-align: center
+}
+.header h2
+{
+    margin-top: 50px;
+    color: #FFF;
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+
+}
+
+/*End Header*/
+/* Start Login*/
+.login
+{
+    overflow: hidden;
+    width: 550px;
+    height: 600px;
+    border-radius: 25px ;
+    box-shadow:0 0  5px #000;
+    margin:50px auto;
+    text-align: center;
+    background-color: #F3F3F3
+    
+}
+.info
+{
+    color: #004b84;
+    font-size: 25px;
+    background-color: #FFF;
+    height: 100px;
+    overflow: hidden
+    
+}
+.info h2
+{
+}
+.form
+{
+    color: #0062AD;
+    overflow: hidden;
+    margin-top: 30px
+        
+}
+.form i
+{
+    position: absolute;
+    margin: 18px 0 0 190px;
+    font-size: 30px
+}
+.form input[type="text"], input[type="password"]
+{
+    display: block;
+    margin: 10px 0 0 90px;
+    width:400px;
+    height: 50px;
+
+}
+
+.form p , input[type="checkbox"]
+{
+    display: inline-block;
+}
+.form button
+{
+    display:block;
+    margin:  0 0 0 220px;
+    width: 100px;
+    height: 35px;
+    background-color: #0062AD;
+    color: #FFF;
+    border: none
+}
+.form button:hover
+{
+    background-color: #004b84;
+    color:#F06622
+}
+
+.form a
+{   
+    display: inline-block;
+    margin-top: 50px;
+    color: #0062AD
+}
+.power
+{
+    color: #004b84;
+    margin-top: 50px
+}
+.power a
+{
+    color: #0062AD
+}
+/*End Login*/
+
+/*Start Footer*/
+.footer
+{
+    overflow: hidden;
+    color: #333;
+    text-align: center;
+    margin-top: -35px
+    
+}
+.footer span
+{
+    font-size: 15px;
+    font-weight: bold;
+    margin: 20px;
+    color: #0062AD
+}
+.footer ul
+{
+    list-style: none;
+    padding: 0;
+    margin: auto;
+}
+.footer ul li
+{
+    display: inline-block;
+}
+.footer ul li i
+{
+    color: #0062AD
+}
+.footer ul li i:hover
+{
+    color: #2C95D9
+}
+
+
+/*End Footer*/
